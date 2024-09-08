@@ -59,7 +59,7 @@ ViPAA 1.4 includes the following changes with respect to version 1.2
 ## 3. Methodology and Codebook
 
 
-The "Methodology_ViPAA_v1.3.pdf" contains the metodological details and codebook.
+The "Methodology_ViPAA_v1.4.pdf" contains the metodological details and codebook.
 
 <br>
 
